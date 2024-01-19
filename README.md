@@ -30,7 +30,7 @@ I'm full-stack developer building my version of the digital world one step at a 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+<!--#
 
 <!--### 📊 Stats
 
@@ -38,7 +38,7 @@ I'm full-stack developer building my version of the digital world one step at a 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
+<!--#
 
 <!--details>
  <summary><h3>👨‍💻 Dan's Coding Journey</h3></summary>
