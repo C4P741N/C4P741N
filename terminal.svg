@@ -32,7 +32,7 @@
   <text x="153" y="75" fill="#e6edf3" font-size="13">whoami</text>
 
   <!-- whoami output -->
-  <text x="24" y="97" fill="#3fb950" font-size="13">  Dan Can Mwanthi</text>
+  <text x="24" y="97" fill="#3fb950" font-size="13">  Kituku Dancan Mwanthi</text>
   <text x="24" y="113" fill="#8b949e" font-size="12">  ─────────────────────────────────────────────</text>
   <text x="24" y="131" fill="#8b949e" font-size="12">  role</text>
   <text x="88" y="131" fill="#e6edf3" font-size="12">   Full-Stack Engineer · Backend Systems Architect</text>
