@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 560" width="780" height="560">
+  <defs>
+    <style>
+      text { font-family: 'Courier New', Courier, monospace; }
+    </style>
+  </defs>
+
+  <!-- Terminal background -->
+  <rect width="780" height="560" rx="10" ry="10" fill="#0d1117"/>
+  <rect width="780" height="560" rx="10" ry="10" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect width="780" height="40" rx="10" ry="10" fill="#21262d"/>
+  <rect y="20" width="780" height="20" fill="#21262d"/>
+  <rect y="39" width="780" height="2" fill="#30363d"/>
+
+  <!-- Traffic lights -->
+  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+
+  <!-- Tab title -->
+  <text x="390" y="25" text-anchor="middle" fill="#8b949e" font-size="12">dancan@dev — bash — 80×24</text>
+
+  <!-- LINE 1: whoami command -->
+  <text x="24" y="75" fill="#3fb950" font-size="13">dancan</text>
+  <text x="82" y="75" fill="#8b949e" font-size="13">@</text>
+  <text x="92" y="75" fill="#d29922" font-size="13">dev</text>
+  <text x="122" y="75" fill="#8b949e" font-size="13">:</text>
+  <text x="129" y="75" fill="#58a6ff" font-size="13">~</text>
+  <text x="141" y="75" fill="#8b949e" font-size="13">$</text>
+  <text x="153" y="75" fill="#e6edf3" font-size="13">whoami</text>
+
+  <!-- whoami output -->
+  <text x="24" y="97" fill="#3fb950" font-size="13">  Dan Can Mwanthi</text>
+  <text x="24" y="113" fill="#8b949e" font-size="12">  ─────────────────────────────────────────────</text>
+  <text x="24" y="131" fill="#8b949e" font-size="12">  role</text>
+  <text x="88" y="131" fill="#e6edf3" font-size="12">   Full-Stack Engineer · Backend Systems Architect</text>
+  <text x="24" y="148" fill="#8b949e" font-size="12">  web</text>
+  <text x="88" y="148" fill="#58a6ff" font-size="12">    https://dancanmwanthi.com</text>
+  <text x="24" y="165" fill="#8b949e" font-size="12">  focus</text>
+  <text x="88" y="165" fill="#d29922" font-size="12">  Clean Code • Scalable Systems • Great UX</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="179" x2="756" y2="179" stroke="#21262d" stroke-width="1"/>
+
+  <!-- LINE 2: cat stack.json -->
+  <text x="24" y="198" fill="#3fb950" font-size="13">dancan</text>
+  <text x="82" y="198" fill="#8b949e" font-size="13">@</text>
+  <text x="92" y="198" fill="#d29922" font-size="13">dev</text>
+  <text x="122" y="198" fill="#8b949e" font-size="13">:</text>
+  <text x="129" y="198" fill="#58a6ff" font-size="13">~</text>
+  <text x="141" y="198" fill="#8b949e" font-size="13">$</text>
+  <text x="153" y="198" fill="#e6edf3" font-size="13">cat stack.json</text>
+
+  <!-- JSON output -->
+  <text x="24" y="218" fill="#8b949e" font-size="12">{</text>
+  <text x="42" y="235" fill="#f778ba" font-size="12">"backend"</text>
+  <text x="114" y="235" fill="#8b949e" font-size="12">: [</text>
+  <text x="136" y="235" fill="#3fb950" font-size="12">"C#", ".NET", "ASP.NET Core", "Node.js", "Python"</text>
+  <text x="502" y="235" fill="#8b949e" font-size="12">],</text>
+  <text x="42" y="251" fill="#f778ba" font-size="12">"frontend"</text>
+  <text x="122" y="251" fill="#8b949e" font-size="12">: [</text>
+  <text x="144" y="251" fill="#3fb950" font-size="12">"React", "Next.js", "TypeScript", "Flutter"</text>
+  <text x="434" y="251" fill="#8b949e" font-size="12">],</text>
+  <text x="42" y="267" fill="#f778ba" font-size="12">"database"</text>
+  <text x="122" y="267" fill="#8b949e" font-size="12">: [</text>
+  <text x="144" y="267" fill="#3fb950" font-size="12">"SQL Server", "PostgreSQL", "MongoDB"</text>
+  <text x="370" y="267" fill="#8b949e" font-size="12">],</text>
+  <text x="42" y="283" fill="#f778ba" font-size="12">"devops"</text>
+  <text x="106" y="283" fill="#8b949e" font-size="12">:   [</text>
+  <text x="136" y="283" fill="#3fb950" font-size="12">"Docker", "Linux", "GitHub Actions", "Jenkins", "Kafka"</text>
+  <text x="517" y="283" fill="#8b949e" font-size="12">],</text>
+  <text x="42" y="299" fill="#f778ba" font-size="12">"cloud"</text>
+  <text x="98" y="299" fill="#8b949e" font-size="12">:    [</text>
+  <text x="136" y="299" fill="#3fb950" font-size="12">"AWS", "Azure", "GCP"</text>
+  <text x="264" y="299" fill="#8b949e" font-size="12">]</text>
+  <text x="24" y="315" fill="#8b949e" font-size="12">}</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="328" x2="756" y2="328" stroke="#21262d" stroke-width="1"/>
+
+  <!-- LINE 3: ls -la skills/ -->
+  <text x="24" y="347" fill="#3fb950" font-size="13">dancan</text>
+  <text x="82" y="347" fill="#8b949e" font-size="13">@</text>
+  <text x="92" y="347" fill="#d29922" font-size="13">dev</text>
+  <text x="122" y="347" fill="#8b949e" font-size="13">:</text>
+  <text x="129" y="347" fill="#58a6ff" font-size="13">~</text>
+  <text x="141" y="347" fill="#8b949e" font-size="13">$</text>
+  <text x="153" y="347" fill="#e6edf3" font-size="13">ls -la skills/</text>
+
+  <text x="24" y="367" fill="#8b949e" font-size="12">drwxr-xr-x  </text>
+  <text x="116" y="367" fill="#58a6ff" font-size="12">backend/</text>
+  <text x="190" y="367" fill="#8b949e" font-size="12">      → .NET · Node.js · REST APIs · Microservices</text>
+  <text x="24" y="383" fill="#8b949e" font-size="12">drwxr-xr-x  </text>
+  <text x="116" y="383" fill="#58a6ff" font-size="12">frontend/</text>
+  <text x="198" y="383" fill="#8b949e" font-size="12">     → React · Next.js · Flutter · UI/UX</text>
+  <text x="24" y="399" fill="#8b949e" font-size="12">drwxr-xr-x  </text>
+  <text x="116" y="399" fill="#58a6ff" font-size="12">cloud/</text>
+  <text x="164" y="399" fill="#8b949e" font-size="12">        → AWS · Azure · GCP · Docker</text>
+  <text x="24" y="415" fill="#8b949e" font-size="12">drwxr-xr-x  </text>
+  <text x="116" y="415" fill="#58a6ff" font-size="12">architecture/</text>
+  <text x="216" y="415" fill="#8b949e" font-size="12">  → System Design · Scalability · DDD</text>
+  <text x="24" y="431" fill="#8b949e" font-size="12">-rw-r--r--  </text>
+  <text x="116" y="431" fill="#d29922" font-size="12">README.md</text>
+  <text x="196" y="431" fill="#8b949e" font-size="12">      → you are here</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="445" x2="756" y2="445" stroke="#21262d" stroke-width="1"/>
+
+  <!-- LINE 4: ping -->
+  <text x="24" y="464" fill="#3fb950" font-size="13">dancan</text>
+  <text x="82" y="464" fill="#8b949e" font-size="13">@</text>
+  <text x="92" y="464" fill="#d29922" font-size="13">dev</text>
+  <text x="122" y="464" fill="#8b949e" font-size="13">:</text>
+  <text x="129" y="464" fill="#58a6ff" font-size="13">~</text>
+  <text x="141" y="464" fill="#8b949e" font-size="13">$</text>
+  <text x="153" y="464" fill="#e6edf3" font-size="13">ping dancanmwanthi.com</text>
+
+  <text x="24" y="484" fill="#3fb950" font-size="12">  PING dancanmwanthi.com — ttl=64 time=1ms — open for opportunities</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="498" x2="756" y2="498" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Final prompt with cursor -->
+  <text x="24" y="520" fill="#3fb950" font-size="13">dancan</text>
+  <text x="82" y="520" fill="#8b949e" font-size="13">@</text>
+  <text x="92" y="520" fill="#d29922" font-size="13">dev</text>
+  <text x="122" y="520" fill="#8b949e" font-size="13">:</text>
+  <text x="129" y="520" fill="#58a6ff" font-size="13">~</text>
+  <text x="141" y="520" fill="#8b949e" font-size="13">$</text>
+  <rect x="155" y="507" width="8" height="15" fill="#e6edf3">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
