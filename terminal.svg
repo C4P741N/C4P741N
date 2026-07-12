@@ -52,7 +52,7 @@
   <text x="129" y="347" fill="#58a6ff" font-size="13">~</text>
   <text x="141" y="347" fill="#8b949e" font-size="13">$</text>
   <text x="153" y="347" fill="#e6edf3" font-size="13">ls -la</text>
-
+  <text x="116" y="431" fill="#d29922" font-size="12">README.md</text> -->
   <text x="196" y="431" fill="#8b949e" font-size="12">      → you are here</text>
 
   <!-- Divider -->
